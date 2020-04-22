@@ -24,7 +24,16 @@ ground = createSprite(200,380,400,20);
  ground.addImage("ground", groundimage);
  invisibleground = createSprite(200,380,400,20)
    invisibleground  .  visible = false
-  s
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
   //creating gameover sprites
 //place gameOver and restart icon on the screen
  gameOver = createSprite(200,300);
